@@ -1,16 +1,54 @@
-# React + Vite
+# 🌐 Gouthaman M — Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🚀 Live Demo  
+👉 [https://gouthaman-developer.netlify.app/](https://gouthaman-developer.netlify.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview
+This is my **personal portfolio website** built using **React + Vite**.  
+It showcases my **projects, technical skills, certifications,** and **contact information**.  
+The site is fully responsive and designed with a clean, modern UI for both desktop and mobile users.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Tech Stack
 
-## Expanding the ESLint configuration
+| Category | Technologies Used |
+|-----------|-------------------|
+| Frontend | React, Vite, JavaScript, HTML5, CSS3 |
+| Deployment | Netlify |
+| Version Control | Git & GitHub |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Features
+- 🎨 Modern, responsive design using HTML, CSS  
+- 💼 Projects showcase with live links  
+- 📄 Resume download option  
+- 📬 Contact form with EmailJS integration  
+- 🌙 Smooth animations & UI interactions  
+
+---
+
+## 📸 Images
+
+<img width="1897" height="920" alt="Screenshot 2025-11-05 000918" src="https://github.com/user-attachments/assets/76ae5428-9d3e-4ed7-a717-3c68219f8227" />
+
+<img width="1873" height="897" alt="Screenshot 2025-11-06 175201" src="https://github.com/user-attachments/assets/c9e1db56-1ee1-4ae2-b46a-7c2fe28a547f" />
+
+<img width="1873" height="926" alt="Screenshot 2025-11-06 175226" src="https://github.com/user-attachments/assets/392925a7-f706-465f-a72d-727e66193b55" />
+
+---
+
+## 🧑‍💻 About Me
+**Gouthaman M**  
+🎓 B.E. Biomedical Engineering — *SJIET College, Anna University*  
+💻 Full-Stack Java Developer | AWS Cloud Engineer  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/gouthaman-m/](https://www.linkedin.com/in/gouthaman-m/)  
+- 🌐 Portfolio: [https://gouthaman-developer.netlify.app/](https://gouthaman-developer.netlify.app/)
