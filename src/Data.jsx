@@ -324,7 +324,7 @@ export const projects = [
       'A modern coffee shop website designed with HTML, CSS, and JavaScript, showcasing premium coffee products with smooth effects and responsive design.',
     skills: [skillsImg1, skillsImg2, skillsImg10, skillsImg3],
     tag: 'Front - End',
-    link: 'https://gouthaman-10.github.io/Coffee-Time-/',
+    link: 'https://gouthaman-10.github.io/Titans-Gym/',
   },
 
   {
